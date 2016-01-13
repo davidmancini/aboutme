@@ -4,6 +4,7 @@
 		<meta charset="UTF-8">
 		<title>About David</title>
 		<link rel="stylesheet" href="css/style.css">
+		<link href='https://fonts.googleapis.com/css?family=Indie+Flower|Raleway' rel='stylesheet' type='text/css'>
 	</head>
 	<body>
 		<h1><div class="center">About David</div></h1>
@@ -23,11 +24,13 @@
 				<ul>
 					<li><strong>Morgan</strong></li>
 						Morgan is my dog.  She is a 4-year-old mixed-breed dog.  I was lucky enough to be able to bring her with me while I'm here in New Mexico!<br>
-						<img src="images/morgan.jpg" alt="Morgan" width="320" height="240">
+						<div class="center"><img src="images/morgan.jpg" alt="Morgan" width="320" height="240"></div>
 					<li><strong>Swimming</strong></li>
 						I think I'm half fish because I absoultely love swimming.  My summers are pretty much spent at the river or at a pool.  I've been a lifeguard, taught swim lessons, and won a gold medal in the olympics.  Just kidding--you probably didn't read this far, anyway.
 				</ul>
 		</div><br><br>
-		<strong><div class="center">Thanks for visiting!</div></strong><br>
+		<footer>
+			<div class="center">Thanks for visiting!</div><br>
+		</footer>
 	</body>
 </html>

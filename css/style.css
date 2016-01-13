@@ -1,9 +1,18 @@
+/***********************
+*CSS for simple project*
+************************/
+body {
+	background-color: antiquewhite;
+	font-family: "Raleway", sans-serif;
+}
+
 .aboutbox {
 	border: 5px solid #000;
 	margin: 5px 50px 5px 50px;
-	font: 1em "Open Sans", sans-serif;
-	color: #664906;
+	font: 1em "Raleway", sans-serif;
+	color: #8e362b;
 	background-color: #E8C872;
+	padding: 0px 20px 0px 20px;
 }
 
 .center {
@@ -12,13 +21,13 @@
 
 h1,
 h2 {
-	color: #115AD9;;
+	color: #115AD9;
 }
 
 h1 {
-	font: 2em "Open Sans", sans-serif;
+	font: 2em "Indie Flower", cursive;
 }
 
 h2 {
-	font: 1.5em "Open Sans", sans-serif
+	font: 1.5em "Raleway", sans-serif;
 }
