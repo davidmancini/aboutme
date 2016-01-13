@@ -30,6 +30,7 @@
 					<li><strong>Swimming</strong></li>
 						I think I'm half fish because I absoultely love swimming.  My summers are pretty much spent at the river or at a pool.  I've been a lifeguard, taught swim lessons, and won a gold medal in the olympics.  Just kidding--you probably didn't read this far, anyway.
 				</ul>
+
 		</div><br><br>
 
 		<footer>

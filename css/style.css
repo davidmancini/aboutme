@@ -4,11 +4,12 @@
 body {
 	background-color: antiquewhite;
 	font-family: "Raleway", sans-serif;
+	margin: 0%;
 }
 
 .aboutbox {
 	border: 5px solid #000;
-	padding: 0px 20px 0px 20px;
+	padding: 0% 5%;
 	font: 1em "Raleway", sans-serif;
 	color: #8e362b;
 	background-color: #E8C872;
@@ -31,10 +32,17 @@ h1 {
 h2 {
 	font: 1.5em "Raleway", sans-serif;
 	background-color: black;
-	padding: 10px 0px 10px 10px;
+	padding: 1%;
 }
 
 .aboutbox,
 h2 {
-	margin: 0px 20px 0px 20px;
+	margin: 0% 5%;
+}
+
+footer {
+	background-color: #243958;
+	color: white;
+	margin: 0%;
+	padding: 3% 2% 10%;
 }
