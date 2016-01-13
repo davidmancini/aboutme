@@ -8,11 +8,11 @@ body {
 
 .aboutbox {
 	border: 5px solid #000;
-	margin: 5px 50px 5px 50px;
+	padding: 0px 20px 0px 20px;
 	font: 1em "Raleway", sans-serif;
 	color: #8e362b;
 	background-color: #E8C872;
-	padding: 0px 20px 0px 20px;
+
 }
 
 .center {
@@ -30,4 +30,11 @@ h1 {
 
 h2 {
 	font: 1.5em "Raleway", sans-serif;
+	background-color: black;
+	padding: 10px 0px 10px 10px;
+}
+
+.aboutbox,
+h2 {
+	margin: 0px 20px 0px 20px;
 }
