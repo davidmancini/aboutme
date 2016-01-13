@@ -1,0 +1,24 @@
+.aboutbox {
+	border: 5px solid #000;
+	margin: 5px 50px 5px 50px;
+	font: 1em "Open Sans", sans-serif;
+	color: #664906;
+	background-color: #E8C872;
+}
+
+.center {
+	text-align: center;
+}
+
+h1,
+h2 {
+	color: #115AD9;;
+}
+
+h1 {
+	font: 2em "Open Sans", sans-serif;
+}
+
+h2 {
+	font: 1.5em "Open Sans", sans-serif
+}

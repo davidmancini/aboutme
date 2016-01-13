@@ -3,31 +3,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>About David</title>
-
-		<style type="text/css">
-			.aboutbox {
-				border: 5px solid #000;
-				margin: 5px 50px 5px 50px;
-			}
-
-			.center {
-				text-align: center;
-			}
-
-			h1,
-			h2 {
-				color: #115AD9;;
-			}
-
-			h1 {
-				font: 2em "Open Sans", sans-serif;
-			}
-
-			h2 {
-				font: 1.5em "Open Sans", sans-serif
-			}
-
-		</style>
+		<link rel="stylesheet" href="css/style.css">
 	</head>
 	<body>
 		<h1><div class="center">About David</div></h1>
