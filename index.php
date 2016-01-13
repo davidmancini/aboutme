@@ -3,9 +3,34 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>About David</title>
+
+		<style type="text/css">
+			.aboutbox {
+				border: 5px solid #000;
+				margin: 5px 50px 5px 50px;
+			}
+
+			.center {
+				text-align: center;
+			}
+
+			h1,
+			h2 {
+				color: #115AD9;;
+			}
+
+			h1 {
+				font: 2em "Open Sans", sans-serif;
+			}
+
+			h2 {
+				font: 1.5em "Open Sans", sans-serif
+			}
+
+		</style>
 	</head>
 	<body>
-		<h1>About David</h1>
+		<h1><div class="center">About David</div></h1>
 		<div class="aboutbox">
 			<h2>Work</h2>
 				<ul>
@@ -25,8 +50,8 @@
 						<img src="images/morgan.jpg" alt="Morgan" width="320" height="240">
 					<li><strong>Swimming</strong></li>
 						I think I'm half fish because I absoultely love swimming.  My summers are pretty much spent at the river or at a pool.  I've been a lifeguard, taught swim lessons, and won a gold medal in the olympics.  Just kidding--you probably didn't read this far, anyway.
-				</ul><br>
-		</div>
-		<strong>Thanks for visiting!</strong>
+				</ul>
+		</div><br><br>
+		<strong><div class="center">Thanks for visiting!</div></strong><br>
 	</body>
 </html>
