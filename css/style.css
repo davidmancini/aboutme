@@ -4,16 +4,15 @@
 body {
 	background-color: antiquewhite;
 	font-family: "Raleway", sans-serif;
-	margin: 0%;
+	margin: 0;
 }
 
 .aboutbox {
 	border: 5px solid #000;
-	padding: 0% 5%;
+	padding: 0 5%;
 	font: 1em "Raleway", sans-serif;
 	color: #8e362b;
 	background-color: #e8c872;
-
 }
 
 .center {
@@ -37,12 +36,17 @@ h2 {
 
 .aboutbox,
 h2 {
-	margin: 0% 5%;
+	margin: 0 5%;
 }
 
 footer {
 	background-color: #243958;
 	color: white;
-	margin: 0%;
+	margin: 0;
 	padding: 3% 2% 10%;
+}
+
+li {
+	margin: 0 0 10px 0;
+	vertical-align: text-top;
 }
